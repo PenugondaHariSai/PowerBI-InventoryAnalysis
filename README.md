@@ -14,3 +14,5 @@ In this Project, I am taking on a challenge to analyse the inventory data and an
 # Metrics Calculated 
 
 Revenue , Cost of Goods Sold (COGS) ,Gross Profit , Average Inventory Value , Inventory Turnover , ABC analysis , Cumilative Increase in revenue , Revenue % of total 
+
+![alt text](https://github.com/PenugondaHariSai/PowerBI-InventoryAnalysis/commit/67acca792d7bb184ffd545ee93e1fc9a156e901d)
